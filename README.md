@@ -22,9 +22,9 @@ NB : if bad error happens, repeat from 2nd command
 Control Your Turtlebot!
 
 Moving around (Press from your keyboard):
-   u   i   o
-   j   k   l
-   m   ,   .
+-   u   i   o
+-   j   k   l
+-   m   ,   .
 
 q/z : increase/decrease max speeds by 10%
 w/x : increase/decrease only linear speed by 10%
