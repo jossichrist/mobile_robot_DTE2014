@@ -1,0 +1,2 @@
+agitr
+-DCATKIN_DEVEL_PREFIX=/home/jossi/Documents/ros/devel -DCMAKE_INSTALL_PREFIX=/home/jossi/Documents/ros/install -G Unix Makefiles
