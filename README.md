@@ -11,10 +11,10 @@ How to use models:
 
 Tutorial how to run mobile robot simulation part 1
 
-1. open terminal
+1. open terminal, go to my_first_mobile folder
 2. 1st tab : "source devel/setup.bash" and then "roscore"
-3. 2nd tab : "roslaunch diff_wheeled_robot_gazebo diff_wheeled_gazebo_full.launch"
-4. 3rd tab : "roslaunch diff_wheeled_robot_control keyboard_teleop.launch"
+3. 2nd tab : "source devel/setup.bash" and then roslaunch diff_wheeled_robot_gazebo diff_wheeled_gazebo_full.launch"
+4. 3rd tab : "source devel/setup.bash" and then roslaunch diff_wheeled_robot_control keyboard_teleop.launch"
 
 NB : if bad error happens, repeat from 2nd command (devel/setup)
 
